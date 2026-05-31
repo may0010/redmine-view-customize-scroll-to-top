@@ -5,7 +5,7 @@ A simple "back to top" button for Redmine using View Customize
 
 チケット画面右下に「↑」ボタンを表示し、クリックでページ上部に戻れる View Customize 用スクリプトです。
 
-* Redmine 5.x / 6.x 対応
+* Redmine 6.1.2 でのみ動作確認済
 * JavaScriptを貼るだけ
 
 ## Before / After
@@ -27,7 +27,6 @@ A simple "back to top" button for Redmine using View Customize
 
 ## 動作環境
 
-* Redmine 5.x
 * Redmine 6.1.x
 * View Customize plugin
 
