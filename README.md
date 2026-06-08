@@ -1,9 +1,8 @@
-# redmine-view-customize-scroll-to-top
-A simple "back to top" button for Redmine using View Customize
-
-# Redmine View Customize Scroll To Top
+# View Customizeで実装するスクロールトップボタン
 
 チケット画面右下に「↑」ボタンを表示し、クリックでページ上部に戻れる View Customize 用スクリプトです。
+
+（A simple "back to top" button for Redmine using View Customize）
 
 * Redmine 6.1.2 でのみ動作確認済
 * JavaScriptを貼るだけ
@@ -46,9 +45,11 @@ Bottom of all pages
 
 ### JavaScript
 
+コードは以下のページを参照ください。
+
 [scroll-to-top.js](./js/scroll-to-top.js)
 
-## LT
+## RedmineJapan vol.5 で LT します
 
 RedmineJapan vol.5「ショートスピーチ20連発」で、タイトル「Redmineのチケット画面に“↑”を生やしてみた」で発表します。
 https://redmine-japan.org/
