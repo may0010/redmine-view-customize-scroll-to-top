@@ -47,7 +47,7 @@ Bottom of all pages
 
 コードは以下のページを参照ください。
 
-[scroll-to-top.js](./js/scroll-to-top.js)
+[https://github.com/may0010/redmine-view-customize-scroll-to-top/blob/main/js/scroll-to-top.js](./js/scroll-to-top.js)
 
 ## RedmineJapan vol.5 で LT します
 
